@@ -1,10 +1,10 @@
 {
   "name": "1Hosts (mini)",
-  "description":: "any",
+  "description": "any",
   "process": "any",
   "denied-remote-domains": [
     "teams.events.data.microsoft.com",
-"104.18.31.183",
+    "104.18.31.183",
     "172.67.13.94",
     "23.33.27.50",
     "34.211.75.168",
